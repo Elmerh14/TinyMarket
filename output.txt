@@ -1,0 +1,42 @@
+My Cart
+======
+Cart Owner: Jhon Smith
+
+[Music]
+Product ID: 1   Product Name: Yesterday
+Price: $16.50   Product Review Rate: 9.8
+Singer Name: Beatles 
+Genre: Pop
+
+[Music]
+Product ID: 3   Product Name: Take Me Home
+Price: $12.50   Product Review Rate: 9.9
+Singer Name: John Denver
+Genre: Folk
+
+[Movie]
+Product ID: 4   Product Name: Sound of Music
+Price: $22.00   Product Review Rate: 9.2
+Director Name: Robert Wise
+Film Rating: G
+Release Year: 1965
+Runtime: 175 minutes
+
+[Movie]
+Product ID: 5   Product Name: Star Wars
+Price: $22.00   Product Review Rate: 8.5
+Director Name: George Lucas
+Film Rating: PG
+Release Year: 1977
+Runtime: 120 minutes
+
+[E book]
+Product ID: 6   Product Name: The Old Man and the Sea
+Price: $8.30   Product Review Rate: 9.5
+Author: Ernest Hemingway
+Pages: 127
+
+===== Summary of Purchase ======
+Total number of purchases: 5
+Total purchasing amount: $81.30
+Average cost: $16.26
